@@ -23,4 +23,4 @@ import lxml.html
 # called "data.sqlite" in the current working directory which has at least a table
 # called "data".
 
-Print ("Hello!")
+print ("Hello!")
